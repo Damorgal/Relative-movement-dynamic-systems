@@ -4,7 +4,7 @@
 
 ## Simulations
 
-![bpmult_arch](GIFs/movimiento_circular.png)
+![move](GIFs/movimento_circular.png)
 
 ![luna](GIFs/luna.gif)
 
